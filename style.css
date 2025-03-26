@@ -1,0 +1,185 @@
+body {
+    background-color: rgb(237, 241, 209);
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+.bg-white {
+    color: #ffffff;
+}
+
+.bg-transition {
+    background-color: #146368;
+}
+
+.carousel {
+    width: 40%;
+    height: 40%;
+}
+
+.imagem {
+    position: absolute;
+    top: 15px; /* Ajuste conforme necessário */
+    left: 20px; /* Ajuste para alinhar à esquerda ou ao centro */
+    width: 80px;
+    height: 80px;
+    z-index: 110; /* Garante que a imagem fique sobre a navbar */
+    border: solid white;
+}
+
+.navbar {
+    position: relative; /* Garante que a imagem se posicione em relação a ela */
+    z-index: 1;
+}
+
+.dropdown-toggle {
+    margin-left: 100px;
+}
+
+
+.btn-outline-success {
+    border: solid white;
+}
+
+.Planos {
+    text-align: center;
+}
+
+.black {
+    background-color: black;
+    border: solid #146368;
+    width: 390px;
+    text-align: center;
+    margin-left: 760px;
+    
+}
+
+#first_button {
+    width: 400px;
+    height: 200px;
+    border-radius: 40px;
+    color: #146368;
+    margin-left: 760px;
+    background-color: #d9d9d9;
+    border-width: 1px;
+}
+
+.p1 { 
+    position: absolute;
+    top: 250px; /* Ajuste conforme necessário */
+    left: 761px; /* Ajuste para alinhar à esquerda ou ao centro */
+    width: 400px;
+    height: 80px;
+    z-index: 110; /* Garante que a imagem fique sobre a navbar */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.p2 {
+    position: absolute;
+    top: 314px; /* Ajuste conforme necessário */
+    left: 761px; /* Ajuste para alinhar à esquerda ou ao centro */
+    width: 400px;
+    height: 80px;
+    z-index: 110; /* Garante que a imagem fique sobre a navbar */
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.second_button {
+    width: 400px;
+    height: 200px;
+    border-radius: 40px;
+    color: #146368;
+    margin-left: 760px;
+    background-color: #d9d9d9;
+    border-width: 1px;
+}
+
+.third_button {
+    width: 400px;
+    height: 200px;
+    border-radius: 40px;
+    color: #146368;
+    margin-left: 760px;
+    background-color: #d9d9d9;
+    border-width: 1px;
+}
+
+.p3 {
+    position: absolute;
+    top: 250px; /* Ajuste conforme necessário */
+    left: 761px; /* Ajuste para alinhar à esquerda ou ao centro */
+    width: 400px;
+    height: 80px;
+    z-index: 110; /* Garante que a imagem fique sobre a navbar */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.p4 {
+    position: absolute;
+    top: 314px; /* Ajuste conforme necessário */
+    left: 761px; /* Ajuste para alinhar à esquerda ou ao centro */
+    width: 400px;
+    height: 80px;
+    z-index: 110; /* Garante que a imagem fique sobre a navbar */
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.p5 {
+    position: absolute;
+    top: 250px; /* Ajuste conforme necessário */
+    left: 761px; /* Ajuste para alinhar à esquerda ou ao centro */
+    width: 400px;
+    height: 80px;
+    z-index: 110; /* Garante que a imagem fique sobre a navbar */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.p6 {
+    position: absolute;
+    top: 314px; /* Ajuste conforme necessário */
+    left: 761px; /* Ajuste para alinhar à esquerda ou ao centro */
+    width: 400px;
+    height: 80px;
+    z-index: 110; /* Garante que a imagem fique sobre a navbar */
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.second_button {
+    width: 400px;
+    height: 200px;
+    border-radius: 40px;
+    color: #146368;
+    margin-left: 760px;
+    background-color: #d9d9d9;
+    border-width: 1px;
+}
+
+.third_button {
+    width: 400px;
+    height: 200px;
+    border-radius: 40px;
+    color: #146368;
+    margin-left: 760px;
+    background-color: #d9d9d9;
+    border-width: 1px;
+}
+
+#second_button {
+    width: 400px;
+    height: 200px;
+    border-radius: 40px;
+    color: #146368;
+    margin-left: 760px;
+    background-color: #d9d9d9;
+    border-width: 1px;
+}
+
+#third_button {
+    width: 400px;
+    height: 200px;
+    border-radius: 40px;
+    color: #146368;
+    margin-left: 760px;
+    background-color: #d9d9d9;
+    border-width: 1px;
+}
